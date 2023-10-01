@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sldjljasdljaslkj
 asldkjalsjdljasd
 asdkljaslkdjlasjdl
@@ -13,3 +14,9 @@ asd
 as
 d
 
+=======
+阿森松岛
+
+asldjlasjkdlaksd
+:wq
+>>>>>>> b1
